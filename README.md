@@ -7,4 +7,9 @@ Este é um projeto feito em Android, de uma calculadora simples que realiza 4 op
 
 ## Ilustração
 
-<img src="src/img/foto.jpg" width="20%"/>
+#### Tela splash:
+<img src="src/img/splash.jpg" width="40%"/>
+
+#### Tela da calculadora:
+<img src="src/img/foto.jpg" width="40%"/>
+
